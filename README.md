@@ -15,7 +15,7 @@ I'll be using Todoist to keep track of all my tasks.
 
 #### Clockify
 
-I'll be using clockify with it's Todoist integration to time all my tasks.
+I'll be using clockify with its Todoist integration to time all my tasks.
 
 ### Rules
 
