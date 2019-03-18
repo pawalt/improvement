@@ -24,10 +24,30 @@ I'll be using clockify with it's Todoist integration to time all my tasks.
 - Check Todoist each morning before class and each night before bed
 - Reach Todoist Zero each night
 
+# Week 2 - Workouts
+## 3/17 - 3/23
+### Reflection
+
+This week was overall good, but I didn't hold up to some of what I wanted to do. I didn't check Todoist in the morning, and the time tracking didn't help keep me on task like I thought it would. That said, I got to Todoist zero every night, and I was very good about putting my tasks into Todoist. I also switched from Clockify to Forest halfway through, and that helped immensely. Forest makes me actually put down my phone and not go to distracting websites, which was fantastic.
+
+I will continue to use Todoist and Forest in conjunction.
+
+### Motivation
+
+With living a busy life come many excuses to not work out, but I need to work harder to work out more. Working out measurable improve cognitive function and overall happiness.
+
+### Tools
+
+N/A
+
+### Rules
+
+- Must exercise 5 times/week (cardio minimum 30 min, weights minimum 45 min)
+- Must do 60 push ups each day (probably 30 morning, 30 night)
+
 # Potential topics for future weeks
 
 - Note-taking
-- Workouts
 - Emails
 - Blogging
 - Personal Projects
