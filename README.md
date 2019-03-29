@@ -45,6 +45,15 @@ N/A
 - Must exercise 5 times/week (cardio minimum 30 min, weights minimum 45 min)
 - Must do 60 push ups each day (probably 30 morning, 30 night)
 
+# Week 3 - Break
+## 3/24 - 3/30
+### Reflection
+Exercising last week felt great. It also wasn't as hard as I thought it would be. I expected to be stressed for time, but basically instead of relaxing and watching YouTube videos sometimes, I watched YouTube while going on the stationary bike. The push ups also felt great to get in. I definitely feel stronger in the chest, even in this short time. Tasking is also going very well.
+
+### Motivation
+
+I've got an insanely busy week, so I'm not going to add anything on. See you next week!
+
 # Potential topics for future weeks
 
 - Note-taking
