@@ -54,6 +54,28 @@ Exercising last week felt great. It also wasn't as hard as I thought it would be
 
 I've got an insanely busy week, so I'm not going to add anything on. See you next week!
 
+# Week 4 - Screen Time
+## 3/31 - 4/6
+### Reflection
+
+Last week was crazy. Thankfully, I'm done now, and I can get to another improvement.
+
+### Motivation
+
+There is a lot coming out right now about how apps intentionally engineer themselves to make them more addictive, and the tactics definitely work on me. I want to cut our or significantly reduce the impact these apps have on my life.
+
+### Tools
+
+- Siempo
+- Quality Time
+- More TBD
+
+### Rules
+
+- Use Siempo the whole week
+- Check Quality Time reports every morning
+- More TBD
+
 # Potential topics for future weeks
 
 - Note-taking
