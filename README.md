@@ -76,10 +76,27 @@ There is a lot coming out right now about how apps intentionally engineer themse
 - Check Quality Time reports every morning
 - More TBD
 
+# Week 5 - Blogging
+## 4/7-4/13
+### Reflection
+
+I started off last week really strong, but I got weak towards the end. I started to use my phone a ton more, and I learned how to game Siempo. Instead of doing long, infrequent social media sessions, I could just do short, frequent social media sessions. These short, infrequent sessions in many ways were worse. For now, I'm not going to change anything, but if this behavior pattern continues, I will add more screen time-limiting apps.
+
+### Motivation
+
+I haven't blogged in a while, but when I do blog, I love it. It doesn't take too long, and it's very rewarding.
+
+### Tools
+
+- Github pages
+
+### Rules
+
+- Make one post a week
+
 # Potential topics for future weeks
 
 - Note-taking
-- Emails
 - Blogging
 - Personal Projects
 - Sleep
