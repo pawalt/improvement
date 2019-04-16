@@ -94,8 +94,8 @@ I haven't blogged in a while, but when I do blog, I love it. It doesn't take too
 
 - Make one post a week
 
-# Week 5 - Note-taking
-## 4/7-4/13
+# Week 6 - Note-taking
+## 4/14-4/20
 ### Reflection
 
 Writing that blog post was great. Blogs really help me formalize my thoughts, and I enjoy putting what I have to say out there. I've been doing very well on all my tasks except the workout task. This week, I'm really going to focus on getting in solid workouts and doing my push-ups.
