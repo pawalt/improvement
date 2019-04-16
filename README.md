@@ -94,9 +94,26 @@ I haven't blogged in a while, but when I do blog, I love it. It doesn't take too
 
 - Make one post a week
 
+# Week 5 - Note-taking
+## 4/7-4/13
+### Reflection
+
+Writing that blog post was great. Blogs really help me formalize my thoughts, and I enjoy putting what I have to say out there. I've been doing very well on all my tasks except the workout task. This week, I'm really going to focus on getting in solid workouts and doing my push-ups.
+
+### Motivation
+
+I've gotten used to not taking notes over the years, but in particularly my Physics and Linear Algebra classes, this is coming back to bite me. There are simply too many methods and formulas to remember in my head, so I need to take better notes.
+
+### Tools
+
+- Rocketbook
+
+### Rules
+
+- Take notes in Rocketbook each Physics and Math class
+- Scan in new notes each night into Rocketbook
+
 # Potential topics for future weeks
 
-- Note-taking
-- Blogging
 - Personal Projects
 - Sleep
