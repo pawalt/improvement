@@ -113,6 +113,24 @@ I've gotten used to not taking notes over the years, but in particularly my Phys
 - Take notes in Rocketbook each Physics and Math class
 - Scan in new notes each night into Rocketbook
 
+# Week 7 - Refocusing
+## 4/21-4/27
+### Reflection
+
+Things went decently with notes last week but not as well as I hoped. I've added so many things over the past few weeks that I haven't had the chance to fully implement any of them. I'm going to take this week to to focus on fully implementing the things I have over the last week.
+
+### Motivation
+
+N/A
+
+### Tools
+
+N/A
+
+### Rules
+
+Focus on the rules from the past weeks, particularly note-taking and workout
+
 # Potential topics for future weeks
 
 - Personal Projects
