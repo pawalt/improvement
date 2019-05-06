@@ -131,6 +131,31 @@ N/A
 
 Focus on the rules from the past weeks, particularly note-taking and workout
 
+# Week 9 - Budgeting
+## 4/21-4/27
+### Reflection
+
+As you can see, I took an extra week to work on the goals I had already set. I'm doing well on the goals that I've kept. For reference, I'm still doing the following:
+
+- Keeping track of tasks with Todoist
+- Focusing with Forest
+- Blogging weekly
+- Using Siempo & QualityTime (this has cut my phone usage in half!)
+
+The only real thing missing is note-taking. I realized while taking notes that I learn much better if I just listen, so that's what I'm doing now.
+
+### Motivation
+
+Now that I have a job, I've been spending money a big more carelessly than I should. I want to cut back so I can make sure the extra money goes into my pocket, not into Wawa's.
+
+### Tools
+
+- Intuit Mint
+
+### Rules
+
+Nothing for now other than check in on what my Mint spending patterns look like at the end of the week.
+
 # Potential topics for future weeks
 
 - Personal Projects
